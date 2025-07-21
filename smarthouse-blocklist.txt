@@ -19,10 +19,10 @@
 ! Do not block firebaseio.com or clients2.google.com to avoid breaking Google Home, Chromecast, and some other smart devices.
 
 ! ================= Apple (iOS, macOS, Home, iCloud, TV) =================
-||xp.apple.com^
+@@||xp.apple.com^
 ||weather-analytics-events.apple.com^
-||metrics.apple.com^
-||api.smoot.apple.com^
+@@||metrics.apple.com^
+@@||api.smoot.apple.com^
 
 ! ================= Microsoft (Windows, Xbox, Bing, MSN, Office) =================
 ||vortex.data.microsoft.com^
